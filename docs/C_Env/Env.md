@@ -186,7 +186,7 @@ It's official download page is [here](http://www.codeblocks.org/downloads/26).
 A powerful but heavy IDE for MacOSX. Not recommended.
 
 ***
-Now we have introduced some various choices for you. Here is some main difference between them:
+Now we have introduced two options for you. Here is some main difference between them:
 
 * IDEs tends to be slower.
 * IDEs are larger in size.
@@ -207,4 +207,4 @@ __This is simply not true__.
 Programmers choose the most suitable tool for their job. The baseline is, good programmers 
 always write good programs, no matter what tool they use.
 
-**For starters, we really suggest you start by using CLion.** Clion really understands your code and we believe you will soon find the great benefit Clion give to you.
+**For starters, we really suggest you start by using Clion.** Clion really understands your code and we believe you will soon find the great benefit Clion give to you.
