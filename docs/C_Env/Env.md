@@ -6,6 +6,8 @@ Author: Fu Xiaohan, Wu Chenggang, Yao Yue
 
 NOTE: This guide is basically for Windows and MacOSX user. For linux user, we believe you can handle it yourself. :)
 
+If you feel strange and uncomfortable to read this doc in pdf, you could turn [here](https://github.com/Reapor-Yurnero/VG101-FA17/blob/master/docs/Clion_tutorial/clion_guide.md).
+
 ## Background Knowledge
 
 Skip the part if you are not interested. 
