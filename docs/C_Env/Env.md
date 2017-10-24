@@ -1,5 +1,9 @@
 # C/C++ Environment Setup Guide
 
+Author: Fu Xiaohan, Wu Chenggang, Yao Yue
+
+***
+
 NOTE: This guide is basically for Windows and MacOSX user. For linux user, we believe you can handle it yourself. :)
 
 ## Background Knowledge
@@ -25,7 +29,7 @@ So basically, to set up the C environment is to the following 2 things:
 
 So you just pick one editor from a bunch of choices, then install the compiler. Then you are good.
 
-For the first one, in most systems, text editors are already there, such as `Notepad.exe`(记事本) on Windows. In many cases, people with use better tools, things like `Sublime text`, `VS Code`, etc.
+For the first one, in most systems, text editors are already there, such as `Notepad.exe` on Windows. In many cases, people with use better tools, things like `Sublime text`, `VS Code`, etc.
 
 For the second one, the compiler we use for this course is `gcc`, stands for `GNU C Compiler`. For Windows 
 users, we use (one of many) its Windows versions, called `TDM-GCC`.
@@ -63,7 +67,6 @@ TDM-GCC is based on mingw, however it is better maintained. To install TDM-GCC o
 If your installation is successful, the last line of output should be like(minor difference possible):
 ```
 gcc version 5.1.0 <tdm32-1>
-
 ```
 
 #### MinGW
