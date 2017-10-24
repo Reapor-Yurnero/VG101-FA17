@@ -5,7 +5,7 @@ Author: Yao Yue, Editor: Fu Xiaohan
 
 This guide tell you about basic usage of Clion, it's firstly written by 2016SU TA Yao Yue. Its origin page is [here](https://github.com/tripack45/VG101_SU16-15/blob/master/FAQ/clion_guide/clion_guide.md).
 
-I did some minor changes and fix some mistakes, if you think reading a pdf format markdown file is strange or uncomfortable, go [here]().
+I did some minor changes and fix some mistakes, if you think reading a pdf format markdown file is strange or uncomfortable, go [here](https://github.com/Reapor-Yurnero/VG101-FA17/blob/master/docs/Clion_tutorial/clion_guide.md).
 
 Before you start this guide, make sure you have 
 
