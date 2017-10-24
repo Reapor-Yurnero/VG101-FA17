@@ -90,7 +90,7 @@ See the part of Mac for reference
 
 ### Windows
 
-See the part of Mac for reference. And here is the config file for MinGW and WSL.
+See the part of Mac for reference. And here is the config file for MinGW and WSL. Student who has interest could try TDM-GCC on yourself. It's quite similiar to MinGW.
 
 tasks.json:
 ```
@@ -162,7 +162,7 @@ launch.json:
 }
 ```
 
-And now you can choose use either WSL or MinGW to compile and debug.
+And now you can choose use either MinGW or TDM-GCC or even WSL to compile and debug.
 ![win](win.png)
 
 Now you can click on your .c file and press F5, and it will start debugging just like an IDE. The started program will be the file you clicked.
