@@ -62,7 +62,7 @@ Here we will only talk about the first two choices in detail. If you have intere
 TDM-GCC is based on mingw, however it is better maintained. To install TDM-GCC on your computer, do as following
 
 * Go to [official website](http://tdm-gcc.tdragon.net/download) and download the 32bit version (the top most one) **no matter your system is 32-bit or 64-puter**
-* If you can't do that because of various reasons, download from [here](http://jcube.sjtu.edu.cn/f/34295/tdm-gcc-5.1.0-3.exe), thanks to SJTU.
+* If you can't do that because of various reasons, download from Canvas.
 * Install, by keep clicking "continue".
 * Verify if you installed it correctly, by running `gcc -v` in `cmd`.
 
@@ -75,9 +75,9 @@ gcc version 5.1.0 <tdm32-1>
 
 MinGW is a traditional choice. To install it, take the following steps:
 * Visit [MinGW](http://www.mingw.org/).
-* Download installer.
+* Download installer. (If you can't connect this website, download it from Canvas.)
 * Run the installer and follow the instruction to install MinGW 
-* Mark mingw32-base and mingw32-gcc-g++.
+* Mark mingw32-base and mingw32-gcc-g++. *Notice that their class are bin.*
 ![mingw](mingw.png)
 * Apply change in Installation in menu bar.
 ![apply](apply.png)

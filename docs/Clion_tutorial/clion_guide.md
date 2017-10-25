@@ -3,13 +3,15 @@
 Author: Yao Yue, Editor: Fu Xiaohan
 ***
 
-This guide tell you about basic usage of Clion, it's firstly written by 2016SU TA Yao Yue. Its origin page is [here](https://github.com/tripack45/VG101_SU16-15/blob/master/FAQ/clion_guide/clion_guide.md).
+**Only read this guide after you have done things in c\_env.pdf.**
 
-I did some minor changes and fix some mistakes, if you think reading a pdf format markdown file is strange or uncomfortable, go [here](https://github.com/Reapor-Yurnero/VG101-FA17/blob/master/docs/Clion_tutorial/clion_guide.md).
+This guide will tell you about basic usage of Clion, it's firstly written by 2016SU TA Yao Yue. Its origin page is [here](https://github.com/tripack45/VG101_SU16-15/blob/master/FAQ/clion_guide/clion_guide.md).
+
+I did some minor changes and fixed some mistakes, if you think reading a pdf format markdown file is strange or uncomfortable, go [here](https://github.com/Reapor-Yurnero/VG101-FA17/blob/master/docs/Clion_tutorial/clion_guide.md).
 
 Before you start this guide, make sure you have 
 
-* Installed Clion correctly.
+* Installed Clion correctly. (If you can't access to Jetbrain's official website, please refer to the download link we offer on Canvas.)
 * Successfully get a student license.
 
 ## Tool chain setup:

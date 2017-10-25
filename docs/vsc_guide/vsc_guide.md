@@ -3,6 +3,8 @@ Author: Wu Chenggang
 
 ***
 
+**Only read this guide after you have done things in c\_env.pdf.**
+
 Visual Studio Guide is an open source lite weight editor that can replace the IDE with the help of various plugins, just like Emacs and Atom. With good settings, you can use it more easily and faster than other IDEs.
 
 ## Installation
