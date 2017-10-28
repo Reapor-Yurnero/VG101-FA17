@@ -41,9 +41,9 @@ gcc -Wall main.c ex1.c ex2.c ex3.c ex4.c -o main
 ```
 This is for 4 exercise condition, add or remove exi.c in this line under other cases.
 
-If you want to know how this is working, check for GNU's online documents or simply type `man gcc` if you have installed the manualscript for gcc on your computer.
+If you want to know how this is working, check for [GNU's online documents](https://gcc.gnu.org/onlinedocs/) or simply type `man gcc` if you have installed the manualscript for gcc on your computer.
 
-- For Clion users: please refer to the Clion guide we have offered. A sample `CMakeLists.txt` has been offered as well.
+- For Clion users: please refer to the [Clion guide](https://github.com/Reapor-Yurnero/VG101-FA17/blob/master/docs/Clion_tutorial/clion_guide.md) we have offered. A sample `CMakeLists.txt` has been offered as well.
 
 ### Stage 3. Executing and Debugging
 
