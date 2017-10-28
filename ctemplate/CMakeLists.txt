@@ -10,5 +10,6 @@ set(SOURCE_FILES
         ex2.c
         ex3.c
         ex4.c)
+# add source files here if more exercises exist
 
 add_executable(ctemplate ${SOURCE_FILES})
