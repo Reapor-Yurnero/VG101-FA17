@@ -9,7 +9,7 @@ This is a README file for your homework template in C. You must follow the instr
 
 __Students who do not follow this template will lose great points.__
 
-This file is also a sample README (without algorithm) for you. If you are not able to render markdown file, you could go [here]() to view it in correct format online.
+This file is also a sample README (without algorithm) for you. If you are not able to render markdown file, you could go [here](https://github.com/Reapor-Yurnero/VG101-FA17/tree/master/ctemplate) to view it in correct format online.
 
 ## USAGE:
 
