@@ -21,6 +21,7 @@ int main(int argc, char* argv[]) {
         case 4:
             ex4();
             break;
+            //add or delete cases here if more/less exercies exist,
         case 0:
             //exit case
             return 0;
